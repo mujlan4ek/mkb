@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMessageBox", "MyMessageBox\MyMessageBox.csproj", "{99B809FE-065D-4AF1-8A45-A6EAAB5AB8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyReencodingViewer", "MyReencodingViewer\MyReencodingViewer.csproj", "{35F5DF83-1DDD-40AD-90FE-1AE6C1B7C245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGame4Buttons", "MyGame4Buttons\MyGame4Buttons.csproj", "{587438A9-9C92-485B-8AD9-3FB511F4899C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B809FE-065D-4AF1-8A45-A6EAAB5AB8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B809FE-065D-4AF1-8A45-A6EAAB5AB8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B809FE-065D-4AF1-8A45-A6EAAB5AB8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B809FE-065D-4AF1-8A45-A6EAAB5AB8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F5DF83-1DDD-40AD-90FE-1AE6C1B7C245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F5DF83-1DDD-40AD-90FE-1AE6C1B7C245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F5DF83-1DDD-40AD-90FE-1AE6C1B7C245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F5DF83-1DDD-40AD-90FE-1AE6C1B7C245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587438A9-9C92-485B-8AD9-3FB511F4899C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587438A9-9C92-485B-8AD9-3FB511F4899C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587438A9-9C92-485B-8AD9-3FB511F4899C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587438A9-9C92-485B-8AD9-3FB511F4899C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
